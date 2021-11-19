@@ -1,0 +1,8 @@
+# Igniored folders
+Archives
+Distros
+
+# Igniored files
+*.md5
+
+DockerTools_Debug.sh

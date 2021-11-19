@@ -1,0 +1,17 @@
+
+TODO List : DockerTools
+
+    @ Add container config parameters
+        ! run_mode option for docker run command (d or it)
+        ! sh_mode option for docker exec command (sh or bash)
+
+    @ Add menu items
+        ! About
+        ! Show commands list
+
+    ! Improve main menu page
+
+    @ Add environment variables support
+
+    @ Add custom container internal commands
+        ? docker exec -w /work/dir ctn_name bash -c "custom command"
